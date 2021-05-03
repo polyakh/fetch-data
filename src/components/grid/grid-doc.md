@@ -1,0 +1,3 @@
+## Grid
+**Props**
+> isSortable?: Boolean
